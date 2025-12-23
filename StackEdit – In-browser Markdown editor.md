@@ -1,2 +1,1 @@
-[InternetShortcut]
-URL=https://stackedit.io/
+[InternetShortcut](https://stackedit.io/)
